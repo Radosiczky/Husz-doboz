@@ -1,0 +1,31 @@
+.container, .container2 {
+  display: flex;
+  background: 0;
+  border: 3px solid skyblue;
+  width: 600px;
+  height: 100px;
+  padding: 15px;
+  border: 5px solid blue;
+  align-items: center;
+  justify-content: space-between;
+ } 
+
+.item {
+  background: deepskyblue;
+  width: 50px;
+  height:50px;
+  padding: 0px;
+  margin-right: 10px;
+   }
+
+.container2 {
+  background: tomato;
+}
+
+.flex-item {
+  background: purple;
+  width: 50px;
+  height:50px;
+  padding: 0px;
+  margin-right: 10px;
+   }
